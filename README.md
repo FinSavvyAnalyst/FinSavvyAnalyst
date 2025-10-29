@@ -17,3 +17,37 @@
 
 #### Background
 My background is fundamentally linked to data analytics through a journey that started with scientific precision and evolved into strategic business applications. My initial experience in rigorous laboratory analysis instilled a critical mindset for handling complex data, teaching me to meticulously analyze, vet, and interpret information before drawing conclusions. This rigor is now applied to financial data, where my expertise in Advanced Accounting and Data Analytics (backed by a Google Data Analytics Certificate and an MBA) allows me to do more than just report numbers. For example, I have used financial forecasting and robust lead pipeline analysis to create data-driven sales goals, directly contributing to an organization's scalability and a 13% increase in total revenue. Furthermore, my ability to break down complex cost accounting principles for clients demonstrates the successful transformation of intricate financial data into clear, actionable, and defensible business insights.
+
+<h4 align="left">My Specializations</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h4 align="left">Contact</h4>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/stephenpnicholson" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="snicho23@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
