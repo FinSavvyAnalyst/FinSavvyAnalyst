@@ -1,7 +1,7 @@
 ## Hi there! 
 #### I am a Strategic Finance professional building projects that utilize rigorous data science for valuable insights that lead to business growth.
 
-📊 My Specialty: Transforming complex financial data into clear, growth-driven pathways using advanced analytical techniques.
+📊 My Specialty: Transforming complex financial data into clear, growth-driven pathways using advanced analytical techniques. 
 
 🔬 Scientific Precision: I approach problem-solving with the rigor of laboratory analysis, ensuring data integrity and robust financial models.
 
